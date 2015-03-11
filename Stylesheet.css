@@ -1,0 +1,79 @@
+fieldset {
+
+    border-width: 3px ;
+    border-color: aqua;
+    border-style: solid;
+    border-spacing: 2px;
+
+
+
+}
+
+select{
+
+    font-family: cursive;font-size: small; color: deeppink;border-width: thick;border-style: groove;text-align: center;
+
+
+
+    
+}
+
+input{
+
+    border-width: thick ; border-style: solid; align-items: center;;
+
+
+}
+
+label{
+
+    font-size: medium;font-family: sans-serif;color: coral;text-align: center;
+}
+
+table{
+
+    border-style: solid ;text-align: center;border-color: lightpink;
+}
+
+h1{
+    text-align: center; color: deeppink;font-size: x-large;font-family: cursive;
+}
+
+
+p{
+    text-align: justify;color: coral; font-size: x-large; font-family: monospace;font-style: oblique;
+}
+
+
+div {
+
+    text-align: start; font-style: italic;font-size: x-large; color: deeppink; align-items: baseline;
+}
+
+
+
+
+thead{
+    font-size: xx-large;font-style: oblique;color: darkorange;
+}
+legend {
+font-style: italic;font-size: x-large;color: black;
+}
+td{
+    text-align: center;
+}
+
+tr{
+    text-align: center;
+}
+tbody{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
